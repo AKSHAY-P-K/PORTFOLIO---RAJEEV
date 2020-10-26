@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "AdobeClean1";
+  src: url("../fonts/AdobeClean-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean2";
+  src: url("../fonts/AdobeClean-BoldIt.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean3";
+  src: url("../fonts/AdobeClean-BoldSemiCn.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean4";
+  src: url("../fonts/AdobeClean-BoldSemiCnIt.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean5";
+  src: url("../fonts/AdobeClean-It.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean6";
+  src: url("../fonts/AdobeClean-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean7";
+  src: url("../fonts/AdobeClean-LightIt.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean8";
+  src: url("../fonts/AdobeClean-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean9";
+  src: url("../fonts/AdobeClean-SemiCn.ttf") format("truetype"); }
+@font-face {
+  font-family: "AdobeClean10";
+  src: url("../fonts/AdobeClean-SemiCnIt.ttf") format("truetype"); }
+@font-face {
+  font-family: "MadeCanvas1";
+  src: url("../fonts/MADECanvaLight.otf"); }
+@font-face {
+  font-family: "MadeCanvas2";
+  src: url("../fonts/MADECanvasBlack.otf"); }
+@font-face {
+  font-family: "MadeCanvas3";
+  src: url("../fonts/MADECanvasRegular.otf"); }
+@font-face {
+  font-family: "Mermaid1";
+  src: url("../fonts/Mermaid1001.ttf"); }
+@font-face {
+  font-family: "Mermaid2";
+  src: url("../fonts/MermaidSwashCaps.ttf"); }

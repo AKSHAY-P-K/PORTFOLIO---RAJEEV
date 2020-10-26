@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth; }
+
+.navbar {
+  background: #FF5964;
+  color: white; }
+
+.navbar-nav li a {
+  font-family: "AdobeClean3";
+  color: white; }
+
+.navbar-nav {
+  margin-right: 2rem !important; }
+
+.section1 {
+  background-color: #fff2f3;
+  min-height: 100vh; }
+
+.name {
+  font-family: 'MadeCanvas2';
+  font-size: 3.5rem;
+  color: #202020;
+  margin-top: 30px; }
+
+.designation {
+  font-family: 'AdobeClean8';
+  font-size: 1.5rem;
+  color: #202020; }
+
+.workingstatus {
+  font-family: 'AdobeClean8';
+  font-size: 1.5rem;
+  margin-top: 30px;
+  color: #202020; }
+
+.banner1 {
+  height: 30rem;
+  width: 100%; }
+
+.resume {
+  margin-top: 13rem; }
+
+@media only screen and (max-width: 600px) {
+  .resume {
+    margin-top: 1rem;
+    margin-bottom: 1rem; } }
+@media only screen and (max-width: 800px) {
+  .resume {
+    margin-top: 5rem;
+    margin-bottom: 1rem; } }
+.resume a {
+  text-decoration: none; }
+
+.animbtn {
+  display: block;
+  height: 5rem;
+  margin: -20px -10px; }
+
+.section2 {
+  min-height: 80vh; }
+
+.heading1 {
+  font-family: 'MadeCanvas2';
+  color: #e1e1e1;
+  margin-top: 50px; }
+
+.name1 {
+  font-family: "AdobeClean1";
+  font-size: 2.7rem; }
+
+.details {
+  font-family: "AdobeClean8";
+  font-size: 1.5rem; }
+
+.lists li {
+  text-decoration: none;
+  display: inline;
+  background-color: #fff2f3;
+  padding: 10px 20px;
+  border-radius: 20px; }
+
+.about {
+  min-height: 100vh;
+  background-color: #e1e1e1; }
+
+.heading2 {
+  font-family: 'MadeCanvas2';
+  color: white; }
+
+.about-heading {
+  font-family: 'MadeCanvas2';
+  line-height: 3rem; }
+
+.para {
+  font-family: "AdobeClean8";
+  font-size: 1.3rem;
+  line-height: 2.2rem; }
+
+.readmore {
+  margin-top: 120px !important; }
+
+.contact-section {
+  min-height: 100vh; }
+
+.heading3 {
+  font-family: 'MadeCanvas2';
+  color: #e1e1e1; }
+
+.mailid a {
+  font-family: 'MadeCanvas2';
+  color: black;
+  font-size: 3rem; }
+
+.mailid :hover {
+  text-decoration: none; }
+
+.socialmedia li {
+  list-style: none;
+  display: inline-block; }
+
+.icons {
+  height: 25px;
+  width: 25px;
+  margin: 40px 30px 20px 0px; }
+
+/*# sourceMappingURL=style.css.map */
